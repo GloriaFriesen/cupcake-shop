@@ -1,3 +1,15 @@
+body {
+  text-align: center;
+  background: url("https://s-media-cache-ak0.pinimg.com/originals/21/0e/c4/210ec4c4024753394fafda2ccf297c15.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.logo {
+  font-size: 50px;
+  color: red;
+  display: inline;
+}
+
 .photos li {
   list-style-type: none;
   display: inline;
@@ -11,6 +23,25 @@
   width: 35%;
 }
 
-.contact li {
+.contact {
+  
+}
+
+.contact-form {
+  color: #fff;
+}
+
+.contact-images li {
   display: block;
+  list-style-type: none;
+}
+
+.contact-images ul {
+
+}
+
+.social-media li {
+  list-style-type: none;
+  display: inline;
+
 }
