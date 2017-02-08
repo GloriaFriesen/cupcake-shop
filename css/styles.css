@@ -1,0 +1,16 @@
+.photos li {
+  list-style-type: none;
+  display: inline;
+}
+
+.about-text {
+  width: 60%;
+}
+
+.photos {
+  width: 35%;
+}
+
+.contact li {
+  display: block;
+}
